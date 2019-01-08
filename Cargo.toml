@@ -1,0 +1,8 @@
+[package]
+name = "workshop"
+version = "0.1.0"
+authors = ["Christopher O'Brian <mobiletread@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+clap = "2.32.0"
